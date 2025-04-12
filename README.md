@@ -37,7 +37,7 @@ Ready for an opportunity to use my skills to grow your business and revenue expo
 
 ###
 
-<h3 align="center">AI specialist</h4>
+<h3 align="center">AI Specialist</h4>
 
 ###
 
