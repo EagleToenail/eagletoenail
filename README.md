@@ -46,7 +46,11 @@ Ready for an opportunity to use my skills to grow your business and revenue expo
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=algorithm" height="40" alt="algorithm"  />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=keras" height="40" alt="keras"  />
   <img width="12" />
 </div>
 
