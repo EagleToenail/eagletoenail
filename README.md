@@ -1,7 +1,7 @@
 <h2 align="center">
  <img src="https://media.giphy.com/media/FWyLGar0fQADQeKWYc/giphy.gif" width='100'>
  <img src="https://media.giphy.com/media/Nta20xR2YdEMWv5bYA/giphy.gif" width='150'>
-     &nbsp; &nbsp; &nbsp; Expert Full-Stack Developer (Web & Mobile)
+     &nbsp; &nbsp; &nbsp; Expert Full-Stack Developer
  
 </h2>
 <h3 align="center">
@@ -34,6 +34,21 @@ Ready for an opportunity to use my skills to grow your business and revenue expo
      <img src="https://github-readme-activity-graph.vercel.app/graph?username=byteslinger&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 -->
 <h2 align="center">🛠 Language and tools</h2>
+
+###
+
+<h3 align="center">AI specialist</h4>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=algorithm" height="40" alt="algorithm"  />
+  <img width="12" />
+</div>
 
 ###
 
