@@ -69,7 +69,7 @@ Ready for an opportunity to use my skills to grow your business and revenue expo
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
+  <img src="https://skillicons.dev/icons?i=vue" height="40" style="max-width: 40px; height: 40px;" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  />
   <img width="12" />
