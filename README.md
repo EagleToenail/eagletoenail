@@ -5,32 +5,7 @@
 </h2>
 <h3 align="center">
 </h3>
-<!--
-<h1>### <img src="https://media.giphy.com/media/a4b16vKA3iX34fwEKA/giphy.gif" width="80" height="80">About Me</h1>
-<p>
- I'm Full Stack developer (Front-End Heavy) focused on Ecommerce development. <br/>
-  You can see my stacks down. <br/>
-  🚀 More than 100 Shopify Stores have already created for my clients and hundreds of issues were solved.I'm 🔰 CERTIFIED Shopify/Shopify plus developer/partner. I have been working with Shopify for more than two years. <br/>
-  I assure, you’ll get response within 24 hours. <br/>
-  Passionate about developing scalable, maintainable, and reliable applications. <br/>
-High-speed and quality coding, perfect maintaining, strong written and verbal communication, leadership and problemsolving skills.<br/>
 
-Ready for an opportunity to use my skills to grow your business and revenue exponentially.<br/>
-</p>
-
-<div align="center">
-  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider2.png" alt="divider" width="100%" height="auto"/>
-</div> 
-<h3 align="center">
- <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> 
- Tech & Tools
- <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/>
-</h3>
-<div align="center">
-    <div>
-     <a href="https://stats.hyochan.dev/en/stats/byteslinger"><img src="https://stats.hyochan.dev/api/github-stats?login=byteslinger" width="600" height="auto" /></a>
-     <img src="https://github-readme-activity-graph.vercel.app/graph?username=byteslinger&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" height="auto"/>
--->
 <h2 align="center">🛠 Language and tools</h2>
 
 ###
