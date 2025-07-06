@@ -1,7 +1,7 @@
 <h2 align="center">
   <img src="https://media.giphy.com/media/FWyLGar0fQADQeKWYc/giphy.gif" width="100" height="100">
   <img src="https://media.giphy.com/media/Nta20xR2YdEMWv5bYA/giphy.gif" width="150" height="150">
-      Expert Full-Stack Developer111
+      Expert Full-Stack Developer
 </h2>
 <h3 align="center">
 </h3>
